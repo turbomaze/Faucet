@@ -2,7 +2,7 @@
 |  Faucet: Random  |
 |   n-Dim. Fields  |
 | @author Anthony  |
-| @version 0.1     |
+| @version 1.0     |
 | @date 2014/07/14 |
 | @edit 2014/07/14 |
 \******************/
